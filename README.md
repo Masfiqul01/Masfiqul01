@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <div align="right">
-  <img src="https://assets-ouch.icons8.com/preview/262/836480b4-6a05-4e76-88f5-3c2fa619472e.png" width="100" />
+  <marquee direction="up" behavior="alternate" scrollamount="3" style="height: 150px; width: 100px;">
+    <img src="https://cdna.artstation.com/p/assets/images/images/014/945/970/original/mario-reynoso-spiderman-pixel-art.gif" width="80" />
+  </marquee>
 </div>
 
 <h1 align="center">
