@@ -1,19 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <div align="right">
-  <svg width="120" height="200" viewBox="0 0 120 200" xmlns="http://www.w3.org/2000/svg">
-    <line x1="60" y1="0" x2="60" y2="100" stroke="#E5E5E5" stroke-width="2">
-      <animate attributeName="y2" values="60;140;60" dur="3s" repeatCount="indefinite" />
-    </line>
-    <g>
-      <ellipse cx="60" cy="100" rx="15" ry="18" fill="#B00B13" />
-      <path d="M52 100 Q60 115 68 100" stroke="white" stroke-width="2" fill="none" />
-      <path d="M50 95 Q54 90 58 95" fill="white" />
-      <path d="M62 95 Q66 90 70 95" fill="white" />
-      <animateTransform attributeName="transform" type="translate" values="0,-40; 0,40; 0,-40" dur="3s" repeatCount="indefinite" />
-    </g>
-  </svg>
+  <img src="https://assets-ouch.icons8.com/preview/262/836480b4-6a05-4e76-88f5-3c2fa619472e.png" width="100" />
 </div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Masfiqul+islam+Rasib!;" />
 </h1>
@@ -90,5 +80,3 @@
          style="height: 50px; width: auto;" />
   </a>
 </div>
-
-<br/>
