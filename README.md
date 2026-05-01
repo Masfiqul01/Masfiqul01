@@ -56,6 +56,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 <hr/>
