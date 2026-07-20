@@ -1,86 +1,75 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<div align="right">
-  <marquee direction="up" behavior="alternate" scrollamount="3" style="height: 150px; width: 100px;">
-    <img src="https://cdna.artstation.com/p/assets/images/images/014/945/970/original/mario-reynoso-spiderman-pixel-art.gif" width="80" />
-  </marquee>
-</div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Masfiqul+islam+Rasib!;" />
-</h1>
-
-<h3 align="center">A passionate Web developer from Khulna, Bangladesh </h3>
-
-<br/>
-
 <div align="center">
 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Masfiqul1/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:im.masfiqul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <a href="https://www.linkedin.com/in/md-masfiqul-islam-rasib-3049113b2?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <a href="https://salesp07.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0008,50:4a0017,100:ff014f&height=300&section=header&text=MD.%20MASFIQUL%20ISLAM%20RASIB&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20|%20%20Project%20Manager%20%20|%20%20Tech%20Enthusiast&descAlignY=54&descAlign=65&fontColor=ffffff" />
 <br>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Masfiqul01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Masfiqul01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=FF014F&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Full-Stack+Web+Developer+%E2%9C%A6;%E2%9C%A6+Project+Manager+%E2%9C%A6;%E2%9C%A6+Multi-Vendor+%26+LMS+Architect+%E2%9C%A6;%E2%9C%A6+UI%2FUX+%26+Minimalist+Design+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+Tech+Optimist+%E2%9C%A6"/>
+
+<br><br>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1a0008?style=for-the-badge&logo=todoist&logoColor=ff014f" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a0008?style=for-the-badge&logo=linkedin&logoColor=ff014f" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1a0008?style=for-the-badge&logo=facebook&logoColor=ff014f" /></a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-1a0008?style=for-the-badge&logo=gmail&logoColor=ff014f" />
+</a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=masfiqul-rasib&label=Profile%20views&color=ff014f&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-ff014f" />
+
 </div>
 
-<br/><br/>
+## 🎯 Current Focus
 
-<hr/>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%" style="border: 1px solid #ff014f; border-radius: 10px; padding: 10px;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+      <br>
+      <strong style="color: #ff014f;">🔭 Currently Working On</strong>
+      <br>
+      <code style="color: #ff014f; background-color: #1a0008; padding: 2px 5px; border-radius: 5px;">Multi-Vendor Platforms & LMS</code>
+      <br>
+      <span style="color: #FFFFFF; font-size: 0.9em;">Scalable Digital Web Applications & Solutions</span>
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #ff014f; border-radius: 10px; padding: 10px;">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
+      <br>
+      <strong style="color: #ff014f;">🌱 Currently Learning</strong>
+      <br>
+      <span style="color: #FFFFFF; font-size: 0.9em;">Computer Science & Engineering (BSc CSE)</span>
+    </td>
+  </tr>
+</table>
 
-<br/>
+## 🚀 About Me
 
-<div align="center">
-  <a href="https://wa.me/8801814634028" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-         alt="WhatsApp" 
-         style="height: 50px; width: auto;" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+const rasib = {
+  name: "MD. Masfiqul Islam Rasib",
+  location: "📍 Khulna, Bangladesh",
+  role: "Full-Stack Web Developer & Project Manager",
+
+  // Core Tech Stack
+  languages: ["JavaScript", "TypeScript", "PHP", "HTML5", "CSS3"],
+  frontend: ["React", "Tailwind CSS", "WordPress"],
+  backend: ["PHP", "Node.js", "Express.js"],
+  database: ["MySQL", "MongoDB"],
+  
+  // Professional Experience & Focus
+  agency: "Managing a 15-member Digital Agency Team",
+  certifications: [
+    "IT Support Service (ITSS) Level-3 - NSDA",
+    "Database Programming - BTEB"
+  ],
+  interests: ["PC Hardware & BIOS Optimization", "UI/UX Design"],
+
+  // Fun Fact
+  funFact: "I spend more time tweaking hardware setups than sleeping 💻"
+};
