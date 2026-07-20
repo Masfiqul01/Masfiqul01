@@ -8,11 +8,10 @@
 <br><br>
 
 <p align="center">
-  <a href="https://masfiq.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=todoist&logoColor=ff014f" /></a>
-  <a href="https://www.linkedin.com/in/masfiqulislamrasib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f" /></a>
-  <a href="https://www.facebook.com/masfiqulislamrasib/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=ff014f" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=im.masfiqul@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f" /></a>
+  <a href="https://masfiq.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=todoist&logoColor=ff014f" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/masfiqulislamrasib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/masfiqulislamrasib/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=ff014f" alt="Facebook" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=im.masfiqul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Send%20an%20Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f" alt="Email" /></a>
 </p>
 
   <img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=Profile%20views&color=ff014f&style=flat" />
