@@ -16,8 +16,8 @@
 </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=masfiqul-rasib&label=Profile%20views&color=ff014f&style=flat" />
-  <img src="https://img.shields.io/github/followers/masfiqul-rasib?label=Followers&style=flat&color=ff014f" />
+  <img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=Profile%20views&color=ff014f&style=flat" />
+  <img src="https://img.shields.io/github/followers/Masfiqul01?label=Followers&style=flat&color=ff014f" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-0a0a0a?logoColor=ff014f" />
 
 </div>
