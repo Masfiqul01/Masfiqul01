@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <a href="(https://masfiq.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=todoist&logoColor=ff014f" /></a>
+  <a href="[https://yourportfolio.com/](https://masfiq.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=todoist&logoColor=ff014f" /></a>
   <a href="https://linkedin.com/in/masfiqul-rasib"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f" /></a>
   <a href="https://facebook.com/masfiqul-rasib"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=ff014f" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
@@ -175,7 +175,7 @@ Holding official certifications in Database Programming and IT Support Service (
  ❖ GitHub Analytics ❖
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h1> 
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masfiqul01&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Masfiqul01&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
 
 <br>
   
