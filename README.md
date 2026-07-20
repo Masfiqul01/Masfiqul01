@@ -175,7 +175,7 @@ Holding official certifications in Database Programming and IT Support Service (
  ❖ GitHub Analytics ❖
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h1> 
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Masfiqul01&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Masfiqul01&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
 
 <br>
   
