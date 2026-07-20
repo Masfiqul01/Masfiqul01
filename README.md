@@ -32,7 +32,7 @@
       <br>
       <strong style="color: #ff014f;">🔭 Currently Working On</strong>
       <br>
-      <a href="https://github.com/masfiqul-rasib" style="text-decoration: none;">
+      <a href="https://github.com/Masfiqul01" style="text-decoration: none;">
         <code style="color: #ff014f; background-color: #0a0a0a; padding: 2px 5px; border-radius: 5px;">Multi-Vendor & LMS</code>
       </a> 
       <br>
@@ -175,11 +175,11 @@ Holding official certifications in Database Programming and IT Support Service (
  ❖ GitHub Analytics ❖
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h1> 
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=masfiqul-rasib&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Masfiqul01&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
 
 <br>
   
-[![Rasib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=masfiqul-rasib&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true)](https://github.com/Masfiqul01)
+[![Rasib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true)](https://github.com/Masfiqul01)
 
 </div>
 
@@ -219,7 +219,7 @@ Holding official certifications in Database Programming and IT Support Service (
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=masfiqul-rasib&color=ff014f&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Masfiqul01&color=ff014f&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
