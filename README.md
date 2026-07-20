@@ -210,10 +210,12 @@ Holding official certifications in Database Programming and IT Support Service (
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f)](https://linkedin.com/in/masfiqul-rasib)&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=im.masfiqul@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Send%20an%20Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f" />
 </a>
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff014f)](https://yourportfolio.com/)
+<a href="https://masfiq.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff014f" alt="Portfolio"/>
+</a>
 
 <br/>
 
