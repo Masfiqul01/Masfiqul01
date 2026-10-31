@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Masfiqul01/Masfiqul01/output/github-contribution-grid-snake-dark.svg" width="400" alt="Animated GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Masfiqul01/masfiqul-islam-rasib/output/github-contribution-grid-snake-dark.svg" width="400" alt="Animated GitHub Contribution Snake"/>
 
 <br/><br/>
 
@@ -425,7 +425,7 @@ GROWTH
 
 ### 🐍 CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/Masfiqul01/Masfiqul01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Masfiqul01/masfiqul-islam-rasib/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 
 <br/><br/>
 
