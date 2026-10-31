@@ -1,86 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a000d,100:ff014f&height=300&section=header&text=MASFIQUL%20ISLAM%20RASIB&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%20%7C%20%20SaaS%20Developer%20%20%7C%20%20Web%20Designer&descAlignY=54&descAlign=65&fontColor=ffffff&descSize=18" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:120008,65:3d0017,100:ff014f&height=320&section=header&text=MASFIQUL%20ISLAM%20RASIB&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20DEVELOPER%20%E2%80%A2%20WEB%20DESIGNER&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=ff014f&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Full-Stack+Web+Developer+%E2%9C%A6;%E2%9C%A6+WordPress+%26+WooCommerce+Specialist+%E2%9C%A6;%E2%9C%A6+React+%2F+Next.js+%26+Node.js+Developer+%E2%9C%A6;%E2%9C%A6+SaaS+%26+AI+Automation+Developer+%E2%9C%A6;%E2%9C%A6+Web+Designer+%26+SEO-Focused+Developer+%E2%9C%A6" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF014F&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A6+Full-Stack+Web+Developer;%E2%9C%A6+React+%2F+Next.js+%2F+Node.js+Developer;%E2%9C%A6+WordPress+%26+WooCommerce+Specialist;%E2%9C%A6+SaaS+%26+AI+Automation+Developer;%E2%9C%A6+Web+Designer+%26+SEO-Focused+Developer;%E2%9C%A6+Building+Digital+Products+That+Actually+Work" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656987-6e8c8a17-1d1c-4f7d-b9df-4a4c3c7f0b5a.gif" width="400"/>
 
 <br><br>
 
-<p align="center">
+<!-- SOCIAL BUTTONS -->
 
 <a href="https://masfiqul.me">
-<img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-ff014f?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/masfiqulislamrasib/">
-<img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
 </a>
 
 <a href="https://github.com/Masfiqul01">
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ff014f"/>
 </a>
 
 <a href="mailto:im.masfiqul@gmail.com">
-<img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f"/>
 </a>
 
-</p>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Masfiqul01?label=Followers&style=flat-square&color=ff014f" />
+<img src="https://img.shields.io/github/followers/Masfiqul01?label=FOLLOWERS&style=for-the-badge&color=ff014f"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Available%20for%20Work-0a0a0a?style=flat-square&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-0a0a0a?style=for-the-badge&logoColor=ff014f"/>
 
 </div>
 
+<br>
+
 ---
 
-# 👋 About Me
+<div align="center">
 
-I'm **Masfiqul Islam Rasib**, a Full-Stack Web Developer and Web Designer from **Khulna, Bangladesh**.
+# ⚡ `WHO AM I?`
 
-I build modern, responsive and scalable digital products — from **WordPress and WooCommerce websites** to **React/Next.js applications, SaaS platforms, dashboards, APIs and AI-powered automation systems**.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%3E+Turning+ideas+into+production-ready+digital+products...;%3E+Building+websites+that+look+good+and+perform+better...;%3E+Engineering+SaaS+%26+AI-powered+automation...;%3E+Designing+experiences+people+actually+want+to+use..." />
 
-My focus is not only on making websites look good, but also on making them **fast, maintainable, scalable, SEO-friendly and conversion-focused**.
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ```javascript
 const masfiqul = {
+
   name: "Masfiqul Islam Rasib",
-  username: "Masfiqul01",
+
   location: "Khulna, Bangladesh",
 
   role: "Full-Stack Web Developer",
 
-  specialties: [
-    "WordPress Development",
-    "WooCommerce",
-    "React / Next.js",
-    "Node.js",
+  experience: [
+    "Web Development",
     "SaaS Development",
     "AI Automation",
     "Web Design",
-    "SEO / AEO / GEO"
+    "SEO"
   ],
 
   frontend: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
     "React",
     "Next.js",
+    "TypeScript",
     "Tailwind CSS"
   ],
 
   backend: [
     "Node.js",
     "Express.js",
-    "REST APIs",
-    "Supabase",
-    "Firebase"
+    "REST APIs"
   ],
 
   cms: [
@@ -89,239 +98,336 @@ const masfiqul = {
     "Elementor"
   ],
 
-  focus: [
-    "Scalable Web Applications",
-    "SaaS Products",
-    "AI-Powered Automation",
-    "High-Converting Websites",
-    "Technical SEO"
+  databases: [
+    "MySQL",
+    "MongoDB",
+    "Supabase",
+    "Firebase"
   ],
 
-  currentlyBuilding: "SaaS & AI-powered automation solutions",
+  currentlyBuilding:
+    "SaaS & AI Automation Systems",
 
-  website: "https://masfiqul.me"
+  website:
+    "https://masfiqul.me"
 };
 ```
 
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+<br>
+
+### 🧠 My Approach
+
+```text
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+DEVELOPMENT
+ ↓
+TESTING
+ ↓
+OPTIMIZATION
+ ↓
+DEPLOYMENT
+ ↓
+GROWTH
+```
+
+<br>
+
+> **I don't just build websites.**
+>
+> I build digital products that are designed to perform, scale and grow.
+
+</td>
+</tr>
+</table>
+
 ---
-
-# 🚀 What I Do
-
-### 💻 Full-Stack Web Development
-
-I develop modern web applications using technologies such as **React, Next.js, Node.js, TypeScript and REST APIs**, with a focus on performance, scalability and clean architecture.
-
-### 🌐 WordPress & WooCommerce
-
-I build and customize professional WordPress websites, business websites, landing pages and WooCommerce stores — including custom designs, Elementor-based builds and performance-focused implementations.
-
-### ⚡ SaaS Development
-
-I work on SaaS products with modern frontend architectures, backend services, authentication, databases, APIs, dashboards and third-party integrations.
-
-### 🤖 AI & Automation
-
-I build AI-powered systems, chatbots, business automation workflows and API-based AI integrations designed to reduce repetitive work and improve customer communication.
-
-### 🎨 Web Design & UI/UX
-
-I turn ideas, Figma designs or rough concepts into responsive and production-ready interfaces with a strong focus on usability, visual hierarchy and conversion.
-
-### 🔎 SEO / AEO / GEO
-
-I build websites with technical SEO, structured data, on-page optimization and modern **Answer Engine Optimization (AEO)** and **Generative Engine Optimization (GEO)** considerations.
-
----
-
-# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+# 🚀 WHAT I BUILD
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2200&pause=700&color=FF014F&center=true&vCenter=true&width=850&lines=%5B01%5D+High-performance+websites;%5B02%5D+Modern+SaaS+applications;%5B03%5D+AI-powered+automation;%5B04%5D+WordPress+%26+WooCommerce+solutions;%5B05%5D+SEO-friendly+digital+experiences" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🌐 Web | 🚀 SaaS | 🤖 AI | 🎨 Design | 🔎 SEO |
+|:---:|:---:|:---:|:---:|:---:|
+| Websites | Platforms | Chatbots | UI/UX | Technical |
+| E-Commerce | Dashboards | Automation | Figma | On-Page |
+| WordPress | APIs | LLM Apps | Responsive | Local |
+| Next.js | Auth | Workflows | Landing Pages | AEO / GEO |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ TECHNOLOGY UNIVERSE
+
+<br>
+
+### ⚡ Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 
 <br><br>
 
-### Frontend
+### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
 
 <br><br>
 
-### CMS & E-Commerce
+### 🌐 CMS & E-Commerce
 
 <img src="https://skillicons.dev/icons?i=wordpress" />
 
 <br><br>
 
-### Tools & Platforms
+### ☁️ Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,postman,docker" />
-
-</div>
-
----
-
-# 🧩 Development Areas
-
-<div align="center">
-
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **CMS** | WordPress, Elementor |
-| **E-Commerce** | WooCommerce, Custom E-Commerce |
-| **Database** | MySQL, MongoDB, Supabase |
-| **Authentication** | Firebase Auth, Supabase Auth |
-| **Design** | Figma, UI/UX, Responsive Design |
-| **SEO** | Technical SEO, On-Page SEO, Local SEO, AEO, GEO |
-| **AI** | AI Chatbots, LLM APIs, AI Automation |
-| **Deployment** | Vercel, Cloud Platforms, Git/GitHub |
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,figma" />
 
 </div>
 
----
-
-# 🔥 Featured Projects
-
-## 🤖 OrmiTech IT
-
-**AI-powered business automation and omnichannel communication platform.**
-
-Built around business messaging, AI chatbot functionality, customer conversations and automation workflows.
-
-**Focus:**
-
-- AI Chatbot
-- Omnichannel Messaging
-- WhatsApp Automation
-- Facebook / Messenger Integration
-- Instagram Messaging
-- Customer Support Automation
-- AI-powered Workflows
-- SaaS Architecture
-
-**Website:**  
-https://ormitechit.com
+<br>
 
 ---
-
-## 🎨 Trixtint
-
-A responsive business website developed with **WordPress + Elementor**, focusing on modern presentation, responsive layouts and user-friendly content structure.
-
-**Technologies:**
-
-`WordPress` `Elementor` `Responsive Design`
-
----
-
-## 🩺 Safe Women Care
-
-A responsive healthcare-focused website built with **WordPress and Elementor**.
-
-**Technologies:**
-
-`WordPress` `Elementor` `Responsive UI`
-
----
-
-## 🛒 E-Commerce Projects
-
-I also work on modern e-commerce experiences including:
-
-- Product-focused storefronts
-- WooCommerce websites
-- Custom e-commerce interfaces
-- Responsive shopping experiences
-- Admin dashboards
-- Product management systems
-- Conversion-focused UI
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Masfiqul01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&icon_color=ff014f&border_radius=12" width="49%" />
+# 💻 MY DEVELOPMENT STACK
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masfiqul01&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&icon_color=ff014f&border_radius=12" width="40%" />
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   FRONTEND                                                  │
+│   ├── React                                                 │
+│   ├── Next.js                                               │
+│   ├── TypeScript                                            │
+│   ├── JavaScript                                            │
+│   └── Tailwind CSS                                          │
+│                                                             │
+│   BACKEND                                                   │
+│   ├── Node.js                                               │
+│   ├── Express.js                                             │
+│   ├── REST APIs                                              │
+│   └── Authentication & Integrations                         │
+│                                                             │
+│   CMS / E-COMMERCE                                          │
+│   ├── WordPress                                             │
+│   ├── WooCommerce                                            │
+│   └── Elementor                                              │
+│                                                             │
+│   DATA                                                       │
+│   ├── MySQL                                                 │
+│   ├── MongoDB                                               │
+│   ├── Supabase                                              │
+│   └── Firebase                                               │
+│                                                             │
+│   AI / AUTOMATION                                            │
+│   ├── AI Chatbots                                            │
+│   ├── LLM APIs                                               │
+│   ├── Business Automation                                   │
+│   └── API Workflows                                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+# 🤖 AI & AUTOMATION
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Masfiqul01&theme=dark&hide_border=true&background=0a0a0a&stroke=2a000d&ring=ff014f&fire=ff014f&currStreakLabel=ff014f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="70%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2400&pause=800&color=FF014F&center=true&vCenter=true&width=850&lines=AI+Chatbots;%E2%86%92+Business+Messaging;%E2%86%92+Lead+Automation;%E2%86%92+Customer+Support;%E2%86%92+Workflow+Automation;%E2%86%92+LLM+Integrations" />
+
+</div>
+
+---
+
+# 🌐 Featured Project
+
+<div align="center">
+
+## 🔴 OrmiTech IT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:2a000d&height=100&text=AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20OMNICHANNEL&fontSize=28&fontColor=ff014f&animation=fadeIn" width="90%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true" width="95%" />
+**AI-powered business automation platform**
+
+<br>
+
+`AI Chatbot` • `WhatsApp` • `Messenger` • `Instagram` • `Website Chat`
+
+<br><br>
+
+<a href="https://ormitechit.com">
+<img src="https://img.shields.io/badge/EXPLORE%20ORMITECH-ff014f?style=for-the-badge&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Masfiqul01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&icon_color=ff014f&border_radius=15" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masfiqul01&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&border_radius=15" width="40%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Masfiqul01&theme=dark&hide_border=true&background=0a0a0a&stroke=2a000d&ring=ff014f&fire=ff014f&currStreakLabel=ff014f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="70%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Masfiqul01&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&icon_color=ff014f&border_radius=12" width="70%" />
+# 📈 CONTRIBUTION MATRIX
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=900&color=FF014F&center=true&vCenter=true&width=750&lines=Every+commit+is+a+step+forward...;%5B+BUILD+%5D+%5B+SHIP+%5D+%5B+LEARN+%5D+%5B+REPEAT+%5D" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=050505&color=ffffff&line=ff014f&point=ff014f&area=true&area_color=2a000d&hide_border=true&custom_title=Masfiqul's%20Contribution%20Activity" width="96%"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🧩 DEVELOPMENT WORKFLOW
 
 <div align="center">
+
+```text
+          ┌───────────────┐
+          │     IDEA      │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │   STRATEGY    │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     DESIGN    │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │    DEVELOP    │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     TEST      │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │   OPTIMIZE    │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │    DEPLOY     │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │    SCALE      │
+          └───────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 CURRENTLY BUILDING
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FF014F&center=true&vCenter=true&width=800&lines=%E2%9A%A1+SaaS+Applications;%F0%9F%A4%96+AI+Automation;%F0%9F%8C%90+Omnichannel+Systems;%F0%9F%8E%A8+Modern+Web+Experiences;%F0%9F%94%8E+SEO+%2B+AEO+%2B+GEO" />
+
+<br><br>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ⚡ Building
+### ⚡ BUILD
 
-**SaaS & Web Applications**
+SaaS Products
 
-Modern, scalable and production-ready digital products.
+<br>
 
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 Exploring
-
-**AI & Automation**
-
-AI-powered business workflows, chatbots and integrations.
+Scalable Web Apps
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🔎 Improving
+### 🤖 AUTOMATE
 
-**SEO + AEO + GEO**
+AI Systems
 
-Building websites that are easier to discover across search and AI-driven experiences.
+<br>
+
+Business Workflows
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 GROW
+
+SEO
+
+<br>
+
+AEO • GEO
 
 </td>
 
@@ -332,94 +438,70 @@ Building websites that are easier to discover across search and AI-driven experi
 
 ---
 
-# 💼 Professional Services
+# 💡 WHAT I BELIEVE
 
 <div align="center">
 
-### 🌐 Website Development
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=%22Good+design+gets+attention.%22;%22Good+engineering+keeps+it.%22;%22Great+products+do+both.%22" />
 
-WordPress • WooCommerce • Custom Websites • Business Websites
+<br><br>
 
-### ⚛️ Modern Web Applications
-
-React • Next.js • Node.js • TypeScript • REST APIs
-
-### 🚀 SaaS Development
-
-Dashboards • Authentication • APIs • Database Systems • Integrations
-
-### 🤖 AI & Automation
-
-AI Chatbots • Business Automation • LLM Integrations • API Automation
-
-### 🎨 Design & UI
-
-Figma to Website • Landing Pages • Responsive UI • Conversion-focused Design
-
-### 🔍 Search Optimization
-
-Technical SEO • On-Page SEO • Local SEO • AEO • GEO
+> **Design × Engineering × Performance × Experience**
 
 </div>
 
 ---
 
-# 🧠 Development Philosophy
-
-> **"Don't just build something that works. Build something that is fast, scalable, maintainable and worth using."**
-
-I believe great digital products sit at the intersection of:
-
-**Design × Engineering × Performance × User Experience**
-
----
-
-# 🌎 Let's Connect
-
-I'm open to interesting projects, collaborations and opportunities involving:
-
-- Web Development
-- SaaS Products
-- AI Automation
-- WordPress / WooCommerce
-- React / Next.js
-- UI/UX
-- SEO & Web Optimization
+# 🌎 OPEN TO COLLABORATION
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
+
+<br><br>
+
+### Let's build something meaningful.
+
+I'm interested in collaborating on:
+
+`SaaS` • `Web Applications` • `AI Automation` • `WordPress` • `E-Commerce` • `React / Next.js` • `UI/UX`
 
 <br>
 
 <a href="https://masfiqul.me">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ff014f?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/masfiqulislamrasib/">
-<img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-ff014f?style=for-the-badge"/>
 </a>
 
 <a href="mailto:im.masfiqul@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f" />
+<img src="https://img.shields.io/badge/✉%20CONTACT%20ME-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f"/>
+</a>
+
+<a href="https://www.linkedin.com/in/masfiqulislamrasib/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
 </a>
 
 </div>
 
 ---
 
-# ⭐ Support My Work
-
 <div align="center">
 
-If you find my projects useful, consider giving them a ⭐ on GitHub.
-
-**Every star helps motivate me to build better things.**
+# ⭐ SUPPORT MY WORK
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF014F&center=true&vCenter=true&width=650&lines=Like+what+I+build%3F;%E2%AD%90+Star+my+repositories;%F0%9F%92%AC+Share+your+ideas;%F0%9F%9A%80+Let's+build+the+future+together" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff014f,50:2a000d,100:0a0a0a&height=130&section=footer&text=Thanks%20for%20Visiting&fontSize=22&fontAlignY=75&fontColor=ffffff" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge"/>
+
+<br><br>
+
+### `BUILD • SHIP • IMPROVE • REPEAT`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff014f,35:3d0017,70:120008,100:050505&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
