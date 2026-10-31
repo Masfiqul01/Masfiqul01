@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <!-- ANIMATED HEADER -->
 
@@ -10,7 +11,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/Masfiqul01/Masfiqul01/output/github-contribution-grid-snake-dark.svg" width="400" alt="Animated GitHub Contribution Snake"/>
 
 <br/><br/>
 
