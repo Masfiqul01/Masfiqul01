@@ -1,507 +1,269 @@
-<div align="center">
+ <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ANIMATED HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a000d,100:ff014f&height=220&section=header&text=MASFIQUL%20ISLAM%20RASIB&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER%20%7C%20SAAS%20DEVELOPER&descAlignY=58&descSize=15&animation=twinkling" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:120008,65:3d0017,100:ff014f&height=320&section=header&text=MASFIQUL%20ISLAM%20RASIB&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20DEVELOPER%20%E2%80%A2%20WEB%20DESIGNER&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF014F&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;WordPress+%7C+React+%7C+Next.js;SaaS+%26+AI+Automation+Developer;Building+Modern+Digital+Experiences" />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF014F&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A6+Full-Stack+Web+Developer;%E2%9C%A6+React+%2F+Next.js+%2F+Node.js+Developer;%E2%9C%A6+WordPress+%26+WooCommerce+Specialist;%E2%9C%A6+SaaS+%26+AI+Automation+Developer;%E2%9C%A6+Web+Designer+%26+SEO-Focused+Developer;%E2%9C%A6+Building+Digital+Products+That+Actually+Work" />
+<a href="https://masfiqul.me"><img src="https://img.shields.io/badge/Portfolio-FF014F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/masfiqulislamrasib/"><img src="https://img.shields.io/badge/LinkedIn-2A000D?style=for-the-badge&logo=linkedin&logoColor=FF014F" /></a>
+<a href="mailto:im.masfiqul@gmail.com"><img src="https://img.shields.io/badge/Email-FF014F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Masfiqul01"><img src="https://img.shields.io/badge/GitHub-2A000D?style=for-the-badge&logo=github&logoColor=FF014F" /></a>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656987-6e8c8a17-1d1c-4f7d-b9df-4a4c3c7f0b5a.gif" width="400"/>
-
-<br><br>
-
-<!-- SOCIAL BUTTONS -->
-
-<a href="https://masfiqul.me">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-ff014f?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/masfiqulislamrasib/">
-<img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
-</a>
-
-<a href="https://github.com/Masfiqul01">
-<img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ff014f"/>
-</a>
-
-<a href="mailto:im.masfiqul@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Masfiqul01?label=FOLLOWERS&style=for-the-badge&color=ff014f"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-0a0a0a?style=for-the-badge&logoColor=ff014f"/>
+<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge" />
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
+## 👨‍💻 ABOUT ME
 
-# ⚡ `WHO AM I?`
+Hey! I'm **Masfiqul Islam Rasib**, a Full-Stack Web Developer and Designer from Khulna, Bangladesh.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%3E+Turning+ideas+into+production-ready+digital+products...;%3E+Building+websites+that+look+good+and+perform+better...;%3E+Engineering+SaaS+%26+AI-powered+automation...;%3E+Designing+experiences+people+actually+want+to+use..." />
+I specialize in building modern, responsive, and scalable web applications, SaaS platforms, and business automation solutions.
 
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+- 💻 Developing modern websites and web applications.
+- 🚀 Building SaaS products and business automation systems.
+- 🎨 Creating clean, responsive UI/UX experiences.
+- ⚡ Working with WordPress, React, Next.js, and Node.js.
+- 🔍 Focused on SEO, AEO, GEO, and web performance.
+- 🤖 Exploring AI-powered applications and automation.
 
 ```javascript
 const masfiqul = {
-
   name: "Masfiqul Islam Rasib",
-
+  role: ["Full-Stack Developer", "Web Designer", "SaaS Developer"],
   location: "Khulna, Bangladesh",
-
-  role: "Full-Stack Web Developer",
-
-  experience: [
+  website: "https://masfiqul.me",
+  interests: [
     "Web Development",
     "SaaS Development",
     "AI Automation",
-    "Web Design",
+    "UI/UX Design",
     "SEO"
   ],
-
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
-
-  cms: [
-    "WordPress",
-    "WooCommerce",
-    "Elementor"
-  ],
-
-  databases: [
-    "MySQL",
-    "MongoDB",
-    "Supabase",
-    "Firebase"
-  ],
-
-  currentlyBuilding:
-    "SaaS & AI Automation Systems",
-
-  website:
-    "https://masfiqul.me"
+  currentlyBuilding: "Modern Web & SaaS Solutions",
+  mindset: "Build. Learn. Improve. Repeat."
 };
 ```
 
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-<br>
-
-### 🧠 My Approach
-
-```text
-IDEA
- ↓
-RESEARCH
- ↓
-DESIGN
- ↓
-DEVELOPMENT
- ↓
-TESTING
- ↓
-OPTIMIZATION
- ↓
-DEPLOYMENT
- ↓
-GROWTH
-```
-
-<br>
-
-> **I don't just build websites.**
->
-> I build digital products that are designed to perform, scale and grow.
-
-</td>
-</tr>
-</table>
-
 ---
 
-<div align="center">
-
-# 🚀 WHAT I BUILD
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2200&pause=700&color=FF014F&center=true&vCenter=true&width=850&lines=%5B01%5D+High-performance+websites;%5B02%5D+Modern+SaaS+applications;%5B03%5D+AI-powered+automation;%5B04%5D+WordPress+%26+WooCommerce+solutions;%5B05%5D+SEO-friendly+digital+experiences" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🌐 Web | 🚀 SaaS | 🤖 AI | 🎨 Design | 🔎 SEO |
-|:---:|:---:|:---:|:---:|:---:|
-| Websites | Platforms | Chatbots | UI/UX | Technical |
-| E-Commerce | Dashboards | Automation | Figma | On-Page |
-| WordPress | APIs | LLM Apps | Responsive | Local |
-| Next.js | Auth | Workflows | Landing Pages | AEO / GEO |
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠️ TECHNOLOGY UNIVERSE
-
-<br>
-
-### ⚡ Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
-
-<br><br>
-
-### ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-
-<br><br>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
-
-<br><br>
-
-### 🌐 CMS & E-Commerce
-
-<img src="https://skillicons.dev/icons?i=wordpress" />
-
-<br><br>
-
-### ☁️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,figma" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 💻 MY DEVELOPMENT STACK
-
-</div>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   FRONTEND                                                  │
-│   ├── React                                                 │
-│   ├── Next.js                                               │
-│   ├── TypeScript                                            │
-│   ├── JavaScript                                            │
-│   └── Tailwind CSS                                          │
-│                                                             │
-│   BACKEND                                                   │
-│   ├── Node.js                                               │
-│   ├── Express.js                                             │
-│   ├── REST APIs                                              │
-│   └── Authentication & Integrations                         │
-│                                                             │
-│   CMS / E-COMMERCE                                          │
-│   ├── WordPress                                             │
-│   ├── WooCommerce                                            │
-│   └── Elementor                                              │
-│                                                             │
-│   DATA                                                       │
-│   ├── MySQL                                                 │
-│   ├── MongoDB                                               │
-│   ├── Supabase                                              │
-│   └── Firebase                                               │
-│                                                             │
-│   AI / AUTOMATION                                            │
-│   ├── AI Chatbots                                            │
-│   ├── LLM APIs                                               │
-│   ├── Business Automation                                   │
-│   └── API Workflows                                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-# 🤖 AI & AUTOMATION
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2400&pause=800&color=FF014F&center=true&vCenter=true&width=850&lines=AI+Chatbots;%E2%86%92+Business+Messaging;%E2%86%92+Lead+Automation;%E2%86%92+Customer+Support;%E2%86%92+Workflow+Automation;%E2%86%92+LLM+Integrations" />
-
-</div>
-
----
-
-# 🌐 Featured Project
-
-<div align="center">
-
-## 🔴 OrmiTech IT
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:2a000d&height=100&text=AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20OMNICHANNEL&fontSize=28&fontColor=ff014f&animation=fadeIn" width="90%"/>
-
-<br><br>
-
-**AI-powered business automation platform**
-
-<br>
-
-`AI Chatbot` • `WhatsApp` • `Messenger` • `Instagram` • `Website Chat`
-
-<br><br>
-
-<a href="https://ormitechit.com">
-<img src="https://img.shields.io/badge/EXPLORE%20ORMITECH-ff014f?style=for-the-badge&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Masfiqul01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&icon_color=ff014f&border_radius=15" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masfiqul01&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&border_radius=15" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Masfiqul01&theme=dark&hide_border=true&background=0a0a0a&stroke=2a000d&ring=ff014f&fire=ff014f&currStreakLabel=ff014f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 CONTRIBUTION MATRIX
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=900&color=FF014F&center=true&vCenter=true&width=750&lines=Every+commit+is+a+step+forward...;%5B+BUILD+%5D+%5B+SHIP+%5D+%5B+LEARN+%5D+%5B+REPEAT+%5D" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=050505&color=ffffff&line=ff014f&point=ff014f&area=true&area_color=2a000d&hide_border=true&custom_title=Masfiqul's%20Contribution%20Activity" width="96%"/>
-
-</div>
-
----
-
-# 🧩 DEVELOPMENT WORKFLOW
-
-<div align="center">
-
-```text
-          ┌───────────────┐
-          │     IDEA      │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │   STRATEGY    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │     DESIGN    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │    DEVELOP    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │     TEST      │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │   OPTIMIZE    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │    DEPLOY     │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │    SCALE      │
-          └───────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 CURRENTLY BUILDING
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FF014F&center=true&vCenter=true&width=800&lines=%E2%9A%A1+SaaS+Applications;%F0%9F%A4%96+AI+Automation;%F0%9F%8C%90+Omnichannel+Systems;%F0%9F%8E%A8+Modern+Web+Experiences;%F0%9F%94%8E+SEO+%2B+AEO+%2B+GEO" />
-
-<br><br>
+## 🚀 WHAT I DO
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 🌐 Web Development
 
-### ⚡ BUILD
-
-SaaS Products
-
-<br>
-
-Scalable Web Apps
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AUTOMATE
-
-AI Systems
-
-<br>
-
-Business Workflows
+- WordPress Development
+- WooCommerce Solutions
+- React & Next.js Applications
+- Node.js Backend Development
+- Custom API Integration
+- Responsive Web Design
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### ⚡ SaaS & Automation
 
-### 🚀 GROW
-
-SEO
-
-<br>
-
-AEO • GEO
+- SaaS Platform Development
+- AI Chatbot Integration
+- Business Workflow Automation
+- Omnichannel Messaging Systems
+- Authentication & Database
+- API & Third-Party Integrations
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🎨 Design & Experience
+
+- UI/UX Design
+- Figma to Website
+- Landing Page Design
+- Admin Dashboard Design
+- Conversion-Focused Interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 SEO & Optimization
+
+- Technical SEO
+- On-Page SEO
+- Local SEO
+- AEO & GEO
+- Website Performance
+- Search Visibility
+
+</td>
 </tr>
 </table>
 
-</div>
+---
+
+## 🏗️ FEATURED PROJECTS
+
+### 🔴 OrmiTech IT
+
+**SaaS Platform | Business Messaging & Automation**
+
+A business automation platform focused on AI-powered customer communication and omnichannel messaging.
+
+- AI Chatbot & Automated Replies
+- Facebook, Instagram, WhatsApp & Website Chat
+- Shared Inbox & Conversation Management
+- Lead and Customer Communication
+- Business Workflow Automation
+
+**Tech Stack:** Next.js, React, Tailwind CSS, Node.js, Supabase, Firebase, Meta API
+
+🌐 [Visit OrmiTech IT](https://ormitechit.com)
+
+### 🌐 Trixtint
+
+**WordPress Website Development**
+
+A responsive business website built with WordPress and Elementor.
+
+**Tech Stack:** WordPress, Elementor, Responsive Web Design
+
+🌐 [Visit Trixtint](https://trixtint.com)
+
+### 💜 Safe Women Care
+
+**WordPress Website Development**
+
+A responsive website developed using WordPress and Elementor.
+
+**Tech Stack:** WordPress, Elementor, UI Design
+
+🌐 [Visit Safe Women Care](https://safewomencare.com)
 
 ---
 
-# 💡 WHAT I BELIEVE
+## 🧩 MY DEVELOPMENT STACK
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=FF014F&center=true&vCenter=true&width=700&lines=Frontend+Development;Backend+Development;Database+%26+Cloud;WordPress+%26+SaaS;Design+%26+Automation" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=%22Good+design+gets+attention.%22;%22Good+engineering+keeps+it.%22;%22Great+products+do+both.%22" />
+<p align="center">
+  <b>FRONTEND</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
 
-<br><br>
+<p align="center">
+  <b>BACKEND & DATABASE</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase,firebase&theme=dark" />
+</p>
 
-> **Design × Engineering × Performance × Experience**
+<p align="center">
+  <b>CMS, TOOLS & DESIGN</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,figma,vscode,postman,vercel&theme=dark" />
+</p>
 
-</div>
-
----
-
-# 🌎 OPEN TO COLLABORATION
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
-
-<br><br>
-
-### Let's build something meaningful.
-
-I'm interested in collaborating on:
-
-`SaaS` • `Web Applications` • `AI Automation` • `WordPress` • `E-Commerce` • `React / Next.js` • `UI/UX`
-
-<br>
-
-<a href="https://masfiqul.me">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-ff014f?style=for-the-badge"/>
-</a>
-
-<a href="mailto:im.masfiqul@gmail.com">
-<img src="https://img.shields.io/badge/✉%20CONTACT%20ME-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f"/>
-</a>
-
-<a href="https://www.linkedin.com/in/masfiqulislamrasib/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FF014F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAAS%20DEVELOPMENT-2A000D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20AUTOMATION-FF014F?style=for-the-badge" />
+</p>
 
 ---
 
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Masfiqul01&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff014f&icon_color=ff014f&text_color=ffffff&ring_color=ff014f&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masfiqul01&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Masfiqul01&theme=dark&hide_border=true&background=0A0A0A&ring=FF014F&fire=FF014F&currStreakLabel=FF014F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Masfiqul01&bg_color=0a0a0a&color=ffffff&line=ff014f&point=ff014f&area=true&area_color=2a000d&hide_border=true&custom_title=MY%20CONTRIBUTION%20ACTIVITY" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Masfiqul01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Masfiqul01/Masfiqul01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2&section=header" width="100%" />
+  <i>Every contribution is a step forward. Keep building. Keep creating.</i>
+</p>
+
+---
+
+## ⚙️ DEVELOPMENT WORKFLOW
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=500&color=FF014F&center=true&vCenter=true&width=700&lines=01.+PLAN+%26+RESEARCH;02.+DESIGN+%26+PROTOTYPE;03.+DEVELOP+%26+INTEGRATE;04.+TEST+%26+OPTIMIZE;05.+DEPLOY+%26+MAINTAIN" />
+</p>
+
+```mermaid
+flowchart LR
+    A["01 · PLAN"] --> B["02 · DESIGN"]
+    B --> C["03 · DEVELOP"]
+    C --> D["04 · TEST"]
+    D --> E["05 · DEPLOY"]
+
+    style A fill:#2a000d,stroke:#ff014f,color:#ffffff
+    style B fill:#2a000d,stroke:#ff014f,color:#ffffff
+    style C fill:#2a000d,stroke:#ff014f,color:#ffffff
+    style D fill:#2a000d,stroke:#ff014f,color:#ffffff
+    style E fill:#ff014f,stroke:#ff014f,color:#ffffff
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-PLAN-FF014F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-DESIGN-2A000D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-BUILD-FF014F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-TEST-2A000D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/05-DEPLOY-FF014F?style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://masfiqul.me">
+    <img src="https://img.shields.io/badge/Website-FF014F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/masfiqulislamrasib/">
+    <img src="https://img.shields.io/badge/LinkedIn-2A000D?style=for-the-badge&logo=linkedin&logoColor=FF014F" />
+  </a>
+  <a href="https://www.facebook.com/masfiqulislamrasib/">
+    <img src="https://img.shields.io/badge/Facebook-FF014F?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:im.masfiqul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2A000D?style=for-the-badge&logo=gmail&logoColor=FF014F" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Have an idea? Let's build something meaningful together.</b>
+</p>
+
 <div align="center">
-
-# ⭐ SUPPORT MY WORK
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF014F&center=true&vCenter=true&width=650&lines=Like+what+I+build%3F;%E2%AD%90+Star+my+repositories;%F0%9F%92%AC+Share+your+ideas;%F0%9F%9A%80+Let's+build+the+future+together" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Masfiqul01&label=PROFILE%20VIEWS&color=ff014f&style=for-the-badge"/>
-
-<br><br>
-
-### `BUILD • SHIP • IMPROVE • REPEAT`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff014f,35:3d0017,70:120008,100:050505&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff014f,50:2a000d,100:0a0a0a&height=130&section=footer&animation=twinkling" width="100%" />
+  
+  <b>© Masfiqul Islam Rasib | Built with passion & code.</b>
 </div>
