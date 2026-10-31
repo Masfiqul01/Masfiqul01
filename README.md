@@ -109,7 +109,7 @@ const masfiqul = {
 
 <td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+```html <img src="https://raw.githubusercontent.com/Masfiqul01/Masfiqul01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake"/> ```
 
 <br/>
 
